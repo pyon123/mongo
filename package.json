@@ -1,0 +1,22 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyon123/mongo.git"
+  },
+  "author": "pyon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyon123/mongo/issues"
+  },
+  "homepage": "https://github.com/pyon123/mongo#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
